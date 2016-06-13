@@ -1,0 +1,7 @@
+http://ssl.gstatic.com/dictionary/static/sounds/de/0/proper.mp3
+http://ssl.gstatic.com/dictionary/static/sounds/de/0/veracious.mp3
+http://ssl.gstatic.com/dictionary/static/sounds/de/0/zealot.mp3
+http://ssl.gstatic.com/dictionary/static/sounds/de/0/ambrosia.mp3
+http://ssl.gstatic.com/dictionary/static/sounds/de/0/abeyance.mp3
+http://ssl.gstatic.com/dictionary/static/sounds/de/0/procastinate.mp3
+http://ssl.gstatic.com/dictionary/static/sounds/de/0/abate.mp3
